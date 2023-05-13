@@ -1,9 +1,9 @@
 # AsyncForms
-A virion that could change regular FormAPI.
+Next-generation virion for working with forms.
 
 # What's the difference?
 
-This virion supports await-generator, so it makes code more clean and makes us free from "callback hell"
+This virion works on await-generator, so it makes code cleaner and makes us free from "callback hell"
 
 Example:
 ```php
