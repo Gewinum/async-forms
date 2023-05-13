@@ -1,0 +1,9 @@
+projects:
+  AsyncForms:
+    path: ""
+    type: library
+    model: virion
+    libs:
+      - src: sof3/await-generator/await-generator
+        version: ^3.3.0
+        epitope: .random

@@ -1,0 +1,17 @@
+{
+  "name": "gewinum/asyncforms",
+  "type": "library",
+  "require": {
+    "pocketmine/pocketmine-mp": "^4.0.0",
+    "sof3/await-generator": "^3.3"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  },
+  "extra": {
+		"virion":{
+			"spec": "3.0",
+			"namespace-root": "gewinum\\asyncforms"
+		}
+	}
+}
