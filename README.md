@@ -100,7 +100,3 @@ if ($response->getSelectedButton() === "no") {
 
 $player->sendMessage("Yay!");
 ```
-
-# Documentation
-
-Documentation will be created later!
