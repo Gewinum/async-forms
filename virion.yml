@@ -2,4 +2,4 @@ name: AsyncForms
 author: Gewinum
 antigen: gewinum\asyncforms
 version: 0.1.0
-api: [4.0.0]
+api: 5.0.0
